@@ -9,6 +9,14 @@
 export.cfg
 export_presets.cfg
 
+#Godot Addons
+addons/
+addons/**
+.github/
+README.md
+SUPPORTERS.md
+VERSION.md
+
 # Mono-specific ignores
 .mono/
 
